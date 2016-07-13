@@ -1,0 +1,13 @@
+  body{
+	   background-image:url(https://static.pexels.com/photos/27971/pexels-photo-27971.jpg); 
+	   background-size: cover;
+	}
+
+ h1 {
+	 font-family: 'Roboto', sans-serif;
+	 color: black;
+	 font-size: 48px;
+	 margin-top: 200px;
+	 text-align: center;
+	 text-shadow: 5px 4px 0px black;
+	 }
