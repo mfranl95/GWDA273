@@ -1,0 +1,76 @@
+body{
+	background-image: url(https://static.pexels.com/photos/27971/pexels-photo-27971.jpg);
+	background-size: cover;
+}
+
+header{
+	
+	color: purple;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	margin-top: 1px auto;
+	text-align: center;
+}
+
+h2{
+	color: black;
+	font-family: Arial;
+	font-size: 16px;
+	margin: auto;
+}
+
+.education h1{
+	color: purple;
+	font-family: Arial;
+	font-size: 36px;
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 5px;
+
+}
+
+.contact h1{
+	color: purple;
+	font-family: Arial;
+	font-size: 36px;
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 5px;
+
+}
+
+
+.skills h1{
+	color: purple;
+	font-family: Arial;
+	font-size: 36px;
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 5px;
+
+}
+
+.clients h1{
+	color: purple;
+	font-family: Arial;
+	font-size: 36px;
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 5px;
+
+}
+
+
+p{
+	color: white;
+	font-family: "Roboto";
+	font-size: 18px;
+	margin-left: 20px;
+
+}
+
+li{
+	color: white;
+	font-family: Arial;
+	font-size: 18px;
+}
