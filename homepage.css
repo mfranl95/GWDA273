@@ -610,13 +610,15 @@
 	background:#66290b;
 	float:left;
 	font-size:smaller;
+	font-family: ;
 	list-style:none;
 	padding-bottom:1em;
 	*display:inline !important;
 	*zoom:1;
 	*vertical-align:top;
 	*margin-left:-15px;
-	*position:relative
+	*position:relative;
+	
 }
 .homepage .col ul+ul,.homepage .col ul+ul+ul
 {
