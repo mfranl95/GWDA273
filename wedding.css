@@ -1,5 +1,7 @@
 body{
 	background-color: #d1e0d7;
+	background-image: url("https://static.pexels.com/photos/110204/pexels-photo-110204.jpeg");
+	background-size: cover;
 }
 
 img{
