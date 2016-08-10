@@ -102,3 +102,28 @@ iframe{
 	top: 910px;
 	left: 372px;
 }
+
+.reception h1{
+	font-family: "cac_champagne-webfont";
+	font-size: 36px;
+	color: white;
+	position: absolute;
+	left: 482px;
+	top: 850px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 2px 1px 2px black;
+}
+
+.reception ul{
+	font-family: "cac_champagne-webfont";
+	font-size: 24px;
+	color: white;
+	position: absolute;
+	left: 352px;
+	top: 910px;
+	text-transform: none;
+	letter-spacing: 2px;
+	list-style-type: none;
+	text-align: center;
+}
